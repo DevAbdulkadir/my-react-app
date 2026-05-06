@@ -1,0 +1,16 @@
+/* src/components/Footer/Footer.css */
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.2rem 2rem;
+    background-color: #1E3A5F;
+    color: #E2E8F0;
+    font-size: 0.9rem;
+}
+
+.footer__links a {
+    color: #00B0F0;
+    text-decoration: none;
+    margin-left: 1rem;
+}
